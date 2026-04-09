@@ -106,7 +106,7 @@ architecture, cloud technologies, and enterprise-grade systems.
 ---
 
 <span style="font-weight:bold; display:block; margin-top:1em;">
-𝗧𝗘𝗔𝗠: 𝗖𝗢𝗥𝗘 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦 & 𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡𝗦
+𝗧𝗘𝗔𝗠: 𝗖𝗢𝗥𝗘 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦 & 𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡𝗦 @ ZigiWave
 </span>
 
 Foundational team responsible for the platform’s 𝗮𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝗶𝗰 and 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹 𝗰𝗼𝗿𝗲, focusing on high-performance data transfer, transformation, and synchronization between independent systems, using and leveraging 𝗖𝗹𝗼𝗷𝘂𝗿𝗲 for scalable solutions.
