@@ -32,7 +32,6 @@
 </div>
 
 
-https://github.com/Dreamerol/Dreamerol/blob/e08afae3096768fd056ab1f08d1fccf355e0eaa0/resume-junior-data-analyst-mihaela-koseva.pdf
 
 ---
 
