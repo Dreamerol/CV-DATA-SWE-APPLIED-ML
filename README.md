@@ -5,14 +5,6 @@
 <div align="center">
   <h1><b>MIHAELA KOSEVA</b></h1>
   
-</div>
-
-<p align="center">
-  <a href="https://github.com/Dreamerol/Junior-Data-Analyst/blob/main/README.md">
-    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readme&logoColor=white"/>
-  </a>
-</p>
-
 
 <div align="center">
   
@@ -23,6 +15,12 @@
   <span style="display:block; font-size:1.2em; font-weight:bold; margin-top:0.5em;">🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">LinkedIn</a></span>
   <span style="display:block; font-size:1.2em; font-weight:bold;">🐙 <a href="https://github.com/Dreamerol">GitHub</a></span>
 </div>
+
+<span style="display:block; font-size:1.2em; font-weight:bold;">
+🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">LinkedIn</a> |
+🐙 <a href="https://github.com/Dreamerol">GitHub</a> |
+📄 <a href="https://github.com/Dreamerol/Junior-Data-Analyst/blob/main/README.md">Resume</a>
+</span>
 
 
 ---
