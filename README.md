@@ -127,7 +127,7 @@ Foundational team responsible for the platform’s 𝗮𝗹𝗴𝗼𝗿𝗶𝘁�
 ---
 
 
-## 🛠️ SELECTED PROJECTS
+## 🛠️ 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 ### [🧠 NEURAL NETWORKS](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow)
 - Designed, trained & evaluated neural networks (~90%+ accuracy).  
