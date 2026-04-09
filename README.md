@@ -1,6 +1,4 @@
 
-<p align="center">
-<h1>MIHAELA KOSEVA</h1>
   
 <p align="center">
 <h1>MIHAELA KOSEVA</h1>
