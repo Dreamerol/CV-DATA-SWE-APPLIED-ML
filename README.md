@@ -132,7 +132,7 @@ architecture, cloud technologies, and enterprise-grade systems.
 
 ---
 
-## 𝗞𝗘𝗬 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦
+### 𝗞𝗘𝗬 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦
 
 **𝗖𝗢𝗥𝗘 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦** ⚙️ – DEVELOPING EFFICIENT, REUSABLE ALGORITHMIC SOLUTIONS  
 **𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡𝗦** 🔗 – ENSURING SEAMLESS COMMUNICATION BETWEEN INDEPENDENT SYSTEMS  
