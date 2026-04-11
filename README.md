@@ -94,7 +94,7 @@
 ---
 
     
----
+
 
 <div align="center">
 
@@ -311,13 +311,12 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 
 ---
 
+
 <div align="center">
 
-## 🟢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
+## 🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 </div>
-
-
 
 <p align="center">
 
@@ -410,8 +409,8 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 </div>
 
 
-
 ---
+
 
 ## 🛠️ 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
