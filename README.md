@@ -498,11 +498,12 @@ Oct 2024 – Present
 ---
 
 
-<h2 align="center">
-  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026" target="_blank" style="text-decoration:none; color:inherit;">
-    🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
+<h3 align="center">
+  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
+    <strong><em>⭐ Click any badge to view its GitHub repository:</em></strong>
   </a>
-</h2>
+</h3>
+
 
 
 
@@ -587,15 +588,6 @@ Oct 2024 – Present
 
 </div>
 
-
----
-
-
-<h3 align="center">
-  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-    <strong><em>⭐ Click any badge to view its GitHub repository:</em></strong>
-  </a>
-</h3>
 
 
 ---
