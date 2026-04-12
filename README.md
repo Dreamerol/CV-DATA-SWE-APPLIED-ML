@@ -68,11 +68,6 @@
   </a>
 </h2>
 
-
-
----
-
-
 <h3 align="center">
   <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
     <strong><em>⭐ Click any badge to view its GitHub repository:</em></strong>
