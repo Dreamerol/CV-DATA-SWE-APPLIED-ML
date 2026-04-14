@@ -4,9 +4,19 @@
 
 
 # <p align="center"><b>𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔</b></p>
+
 <h2 align="center"> <strong><em>Data Analyst | Software Engineer | Algorithms & Data Structures | Machine Learning & APIs | Python • Java • C++ • Clojure • SQL</em></strong> </h2>
 
 </div>
+
+
+<h3 align="center"><em>✨ Data ✦ AI ✦ Software Engineering ✦ Turning ideas into solutions ✨</em></h3>
+
+<strong><em><h3 align="center"> <strong><em>Data Analyst | Software Engineer | Algorithms & Data Structures | Applied Machine Learning & APIs | Python • C++ • Java • Clojure • SQL</em></strong> </h3></em></strong> 
+
+</div>
+
+---
 
 
 ---
