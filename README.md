@@ -13,10 +13,6 @@
   </span>
 
   <span style="display:block; font-size:2.5em;">
-    📞 +𝟯𝟱𝟵 𝟴𝟵 𝟳𝟲𝟰 𝟯𝟱𝟱𝟮
-  </span>
-
-  <span style="display:block; font-size:2.5em;">
     ✉️ 𝗠𝗜𝗖𝗛𝗔𝗘𝗟𝗔𝗞𝗢𝗦𝗘𝗩𝗔@𝗚𝗠𝗔𝗜𝗟.𝗖𝗢𝗠
   </span>
 
