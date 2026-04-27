@@ -574,7 +574,7 @@ Oct 2024 – Present
 </div>
 
 
-<br>
+
 
 <h3 align="center">
   <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
@@ -584,7 +584,8 @@ Oct 2024 – Present
 
 </div>
 
-<br>
+
+---
 
 <div align="center">
 
@@ -602,5 +603,5 @@ Oct 2024 – Present
 </div>
 
 
-
+---
 
