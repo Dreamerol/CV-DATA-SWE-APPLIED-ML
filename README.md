@@ -80,9 +80,17 @@ Python • SQL • Data Analysis • Machine Learning
 
 <h3 align="center">
   <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-    <strong>🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 : Click any badge to view project</strong>
+    <strong>🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</strong>
   </a>
 </h3>
+
+<h3 align="center">
+  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
+    <strong><em>✨ Click any badge to view project</em></strong>
+  </a>
+</h3>
+
+</div>
 
 <br>
 
