@@ -192,6 +192,57 @@ Contributed to backend integrations, data transfer workflows, and internal platf
 
 <br> 
 
+<h2 align="center">
+  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026" target="_blank" style="text-decoration:none; color:inherit;">
+    🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
+  </a>
+</h2>
+
+<br>
+
+### 🧠 [𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow)
+
+- Designed and evaluated neural networks with ~90%+ accuracy  
+- Implemented backpropagation and gradient descent from scratch  
+- Applied ML to dynamic system modeling (SIR model, ODE simulations)
+
+<br>
+
+### 💰 [𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥 𝗠𝗟](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML) (Python, Scikit-learn, Pandas, NumPy)
+
+- Built an end-to-end ML pipeline for profit forecasting and trend analysis  
+- Conducted EDA, feature engineering, and preprocessing  
+- Implemented regression, decision trees, and time series models
+
+<br>
+
+### 💊 [𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 𝗠𝗟 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦](https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS) (Python, Pandas, Matplotlib, NumPy)
+
+- Performed exploratory and statistical analysis on 5,000+ clinical records  
+- Conducted hypothesis testing (p < 0.05) and correlation analysis  
+- Built preprocessing pipelines and visualization workflows
+
+<br>
+
+### 📦 [𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗗𝗔𝗧𝗔 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠](https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM) (SQL)
+
+- Designed normalized relational database schema  
+- Optimized SQL queries, improving performance by ~30%  
+- Supported KPI tracking and reporting workflows
+
+<br>
+
+### 🌐 [𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢](https://github.com/Dreamerol/SOFTWARE-PORTFOLIO) (HTML, CSS, JavaScript)
+
+- Built a responsive portfolio showcasing projects and technical work  
+- Designed modular UI components with interactive navigation  
+- Centralized projects, skills, and professional profiles
+
+<br>
+
+
+
+
 ### [🧠 NEURAL NETWORKS](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow) - Designed, trained & evaluated neural networks (~90%+ accuracy). - Implemented **Backpropagation** & **Gradient Descent** from scratch. - Applied ML to dynamic system modeling (SIR model, ODE simulations). 
 
 <br>
