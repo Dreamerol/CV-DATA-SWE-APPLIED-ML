@@ -255,34 +255,23 @@ Contributed to backend integrations, data transfer workflows, and internal platf
 
 ## 💻 𝗞𝗘𝗬 𝗦𝗞𝗜𝗟𝗟𝗦
 
-**Machine Learning & AI**  
+**𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 & 𝗔𝗜**  
 Neural networks, regression, classification, model evaluation, feature engineering, Scikit-learn, LLM basics  
 
-**Backend Development**  
+**𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧**  
 Java, Python, REST APIs, API integrations, Spring Boot basics, system design concepts  
 
-**Frontend Development**  
+**𝗙𝗥𝗢𝗡𝗧𝗘𝗡𝗗 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧**  
 JavaScript, HTML5, CSS3, responsive web design  
 
-**Functional Programming**  
+**𝗙𝗨𝗡𝗖𝗧𝗜𝗢𝗡𝗔𝗟 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚**  
 Clojure, ClojureScript, functional programming in Python  
 
-**Databases**  
+**𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦**  
 SQL, relational databases, query optimization, data modeling  
 
-**Tools & Practices**  
+**𝗧𝗢𝗢𝗟𝗦 & 𝗣𝗥𝗔𝗖𝗧𝗜𝗖𝗘𝗦**  
 Git, Jupyter Notebook, VS Code, Agile/Scrum, OOP, clean code, modular architecture, scalable system design  
-
-
-
-## 💻 𝗞𝗘𝗬 𝗦𝗞𝗜𝗟𝗟𝗦
-
-**🤖 Machine Learning & AI:** Neural Networks, Regression, Classification, Model Evaluation, Feature Engineering, Scikit-learn, LLM Basics  
-**🖥️ Backend Development:** Java ☕, Python 🐍, REST APIs 🔗, API Integrations, Microservices Concepts 🏗️, Spring Boot Basics  
-**🌐 Frontend Development:** JavaScript, HTML5, CSS3, Responsive Web Design 🖌️  
-**⚡ Functional Programming:** Clojure, ClojureScript, Python (Functional)  
-**🗄️ Databases:** SQL, Relational Databases, Query Optimization, Data Modeling  
-**🛠️ Tools & Practices:** Git 🐙, Jupyter Notebook 📓, VS Code, Agile/Scrum 🏃‍♀️, OOP 🧩, Clean Code, Modular Architecture, Scalable  Systems Design
 
 
 <br>
