@@ -155,16 +155,16 @@ Contributed to backend integrations, data transfer workflows, and internal platf
 ## 💻 𝗞𝗘𝗬 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦
 
 **𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 & 𝗗𝗔𝗧𝗔 𝗦𝗬𝗦𝗧𝗘𝗠𝗦**  
-Neural networks, regression, classification, feature engineering, model evaluation, applied ML pipelines  
+• Neural networks, regression, classification, feature engineering, model evaluation, applied ML pipelines  
 
 **𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 & 𝗔𝗣𝗜𝗦**  
-Java, Python, REST APIs, distributed systems, microservices concepts, system integration  
+• Java, Python, REST APIs, distributed systems, microservices concepts, system integration  
 
 **𝗗𝗔𝗧𝗔 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚**  
-SQL, data modeling, query optimization, pipeline design, structured data processing  
+• SQL, data modeling, query optimization, pipeline design, structured data processing  
 
 **𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗣𝗥𝗔𝗖𝗧𝗜𝗖𝗘𝗦**  
-Clean code, OOP, Git workflows, Agile development, modular system design  
+• Clean code, OOP, Git workflows, Agile development, modular system design  
 
 
 <br>
