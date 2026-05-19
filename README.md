@@ -194,7 +194,11 @@ Contributed to backend integrations, data transfer workflows, and internal platf
 
 <h2 align="center"> <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026" target="_blank" style="text-decoration:none; color:inherit;"> 🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 </a> 
      
-</h2> <br> ### [🧠 NEURAL NETWORKS](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow) - Designed, trained & evaluated neural networks (~90%+ accuracy). - Implemented **Backpropagation** & **Gradient Descent** from scratch. - Applied ML to dynamic system modeling (SIR model, ODE simulations). 
+</h2> 
+
+<br> 
+
+### [🧠 NEURAL NETWORKS](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow) - Designed, trained & evaluated neural networks (~90%+ accuracy). - Implemented **Backpropagation** & **Gradient Descent** from scratch. - Applied ML to dynamic system modeling (SIR model, ODE simulations). 
 
 ### [💰 PROFIT PREDICTOR ML](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML) (Python, Scikit-learn, Pandas, NumPy) - Full ML pipeline for **profit forecasting** and trend analysis. - Conducted **EDA**, feature engineering, & preprocessing. - Implemented Regression, Decision Trees, and Time Series models. 
 
