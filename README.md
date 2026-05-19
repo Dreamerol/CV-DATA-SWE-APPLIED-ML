@@ -9,7 +9,7 @@
 
 <div align="center">
 
- 📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 📍 𝗦𝗢𝗙𝗜𝗔
+ 📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧
   </span>
   <span style="display:block; font-size:2.5em;">
   </span> <span style="display:block; font-size:2.5em;">
