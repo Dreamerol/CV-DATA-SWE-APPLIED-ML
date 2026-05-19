@@ -74,7 +74,7 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 - Developed backend services and data pipelines using **Python**, **Java**, and **Clojure**
 - Built REST API integrations supporting internal platform communication and data synchronization
 - Worked on modular backend components following clean architecture principles
-- Contributed to systems handling **high-volume data processing workflows (X+ events/day)**  
+- Contributed to systems handling **high-volume data processing workflows 
 - Participated in Agile development, code reviews, debugging, and Git-based collaboration
 
  <br>
@@ -82,10 +82,22 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 ### 📝 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡 𝗪𝗢𝗥𝗞
 
 - Developed API-driven backend components for distributed system integration  
-- Designed data processing workflows improving system efficiency (**~X% where applicable**)  
+- Designed data processing workflows improving system efficiency  
 - Worked on scalable service integration patterns and event-driven architectures
 - Supported production backend systems used in internal platform operations   
 - Featured System: Java + Clojure Backend API System  : 👉 [𝗝𝗮𝘃𝗮 + 𝗖𝗹𝗼𝗷𝘂𝗿𝗲 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗔𝗣𝗜 𝗦𝘆𝘀𝘁𝗲𝗺](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
+
+
+<br>
+
+### 🔥 𝗜𝗠𝗣𝗔𝗖𝗧 & 𝗢𝗨𝗧𝗖𝗢𝗠𝗘𝗦
+
+- Improved backend data flow reliability by refactoring integration logic and reducing redundant processing steps  
+- Increased efficiency of internal API communication through cleaner service separation and modular architecture design  
+- Contributed to scalable data processing pipelines handling high-volume event-driven workflows  
+- Reduced debugging and maintenance overhead by improving code structure and applying clean architecture principles  
+- Strengthened system stability in production environments through active participation in code reviews and bug fixing  
+- Supported faster development cycles by improving Agile collaboration flow (Git-based workflow, PR reviews)
 
 
 <br>
