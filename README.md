@@ -81,10 +81,11 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 
 ### 📝 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡 𝗪𝗢𝗥𝗞
 
-- Contributed to backend platform functionality using **Java**, **Clojure**, and API-driven architectures
-- Developed modular data pipelines and backend integration components
-- Worked within a collaborative engineering environment focused on modular architecture and reliable backend services
-- Featured Project: 👉 [𝗝𝗮𝘃𝗮 + 𝗖𝗹𝗼𝗷𝘂𝗿𝗲 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗔𝗣𝗜 𝗦𝘆𝘀𝘁𝗲𝗺](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
+- Developed API-driven backend components for distributed system integration  
+- Designed data processing workflows improving system efficiency (**~X% where applicable**)  
+- Worked on scalable service integration patterns and event-driven architectures
+- Supported production backend systems used in internal platform operations   
+- Featured System: Java + Clojure Backend API System  : 👉 [𝗝𝗮𝘃𝗮 + 𝗖𝗹𝗼𝗷𝘂𝗿𝗲 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗔𝗣𝗜 𝗦𝘆𝘀𝘁𝗲𝗺](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
 
 
 <br>
