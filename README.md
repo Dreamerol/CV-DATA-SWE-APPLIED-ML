@@ -101,8 +101,9 @@ Building backend integrations and API communication between distributed services
 **𝗗𝗔𝗧𝗔 𝗣𝗥𝗢𝗖𝗘𝗦𝗦𝗜𝗡𝗚 𝗣𝗜𝗣𝗘𝗟𝗜𝗡𝗘𝗦** ⚡  
 Designing modular workflows for automation and scalable data processing
 
+<br>
 
-#### Core Algorithms & System Integrations — ZigiWave
+#### Team: Core Algorithms & System Integrations — ZigiWave
 
 Contributed to backend integrations, data transfer workflows, and internal platform functionality using **Clojure** and API-driven architectures. Focused on maintainable backend services, modular system design, and scalable data processing.
 
@@ -110,7 +111,6 @@ Contributed to backend integrations, data transfer workflows, and internal platf
 
 𝗝𝗨𝗡𝗜𝗢𝗥 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 (𝗜𝗡𝗧𝗘𝗥𝗡)  
 𝗙𝗢𝗖𝗨𝗦: **Java**, **Clojure**, Backend Systems & REST API Integrations
-
 
 
 <br>
