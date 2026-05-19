@@ -152,7 +152,7 @@ Contributed to backend integrations, data transfer workflows, and internal platf
 - Focused on scalable backend design and maintainable system structure  
 - Worked with event-driven and data synchronization workflows  
 
-- <br>
+<br>
 
 
 ### 🌐 [𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢](https://github.com/Dreamerol/SOFTWARE-PORTFOLIO) (HTML, CSS, JavaScript)
