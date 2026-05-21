@@ -121,15 +121,11 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 
 <br>
 
+### 🔥 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗜𝗠𝗣𝗔𝗖𝗧
 
-### 🔥 𝗜𝗠𝗣𝗔𝗖𝗧 & 𝗢𝗨𝗧𝗖𝗢𝗠𝗘𝗦
-
-- Improved backend data flow reliability by refactoring integration logic and reducing redundant processing steps  
-- Increased efficiency of internal API communication through cleaner service separation and modular architecture design  
-- Contributed to scalable data processing pipelines handling high-volume event-driven workflows  
-- Reduced debugging and maintenance overhead by improving code structure and applying clean architecture principles  
-- Strengthened system stability in production environments through active participation in code reviews and bug fixing  
-- Supported faster development cycles by improving Agile collaboration flow (Git-based workflow, PR reviews)
+- Improved backend integration workflows and API reliability through modular service design  
+- Contributed to scalable event-driven backend systems and data processing pipelines  
+- Enhanced maintainability and development efficiency through debugging, code reviews, and Git collaboration
 
 
 <br>
