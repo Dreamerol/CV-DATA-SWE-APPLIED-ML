@@ -105,7 +105,9 @@ Focused on backend engineering, data-driven systems, and applied machine learnin
 
 - Improved backend integration workflows and API reliability through modular service design  
 - Contributed to scalable event-driven backend systems and data processing pipelines  
-- Improved maintainability and development efficiency through debugging, code reviews, and Git-based collaboration  
+- Improved maintainability and development efficiency through debugging, code reviews, and Git-based collaboration
+
+  <br>
 
 
 ### 🧩 𝗧𝗘𝗔𝗠 & 𝗙𝗢𝗖𝗨𝗦 — 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘
