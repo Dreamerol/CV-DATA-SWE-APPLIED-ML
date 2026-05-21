@@ -61,8 +61,6 @@ Experience building backend systems, data pipelines, and REST API applications u
 Focused on backend engineering, data-driven systems, and Applied Machine Learning, with experience working on Neural Networks, predictive analytics, and statistical modeling for real-world problems, alongside scalable and modular software architectures.
 
 
----
-
 <br>
 
 
