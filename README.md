@@ -127,7 +127,6 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 - Contributed to scalable event-driven backend systems and data processing pipelines
 - Enhanced maintainability and development efficiency through debugging, code reviews, and Git collaboration
 
-<br>
 
 ### 🧩 𝗧𝗘𝗔𝗠 & 𝗙𝗢𝗖𝗨𝗦 — 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘
 
