@@ -187,7 +187,7 @@ Contributed to backend integrations, data transfer workflows, and internal platf
   </a>
 </h2>
 
-<br> 
+
 
 ### 🧠 [𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow)
 
