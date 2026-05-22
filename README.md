@@ -121,6 +121,9 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 - **Role:** Junior Software Developer Intern  
 - **Focus Areas:** Backend Systems • REST APIs • Data Engineering • System Integrations
+
+
+  <br>
   
 ---
 
@@ -198,6 +201,7 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 - Designed modular UI components with interactive navigation  
 - Centralized projects, skills, and professional profiles
 
+<br>
 
 ---
 
@@ -279,6 +283,8 @@ Oct 2024 – Present
 ## 🏆 𝗔𝗪𝗔𝗥𝗗𝗦
 - **Laureate** — FMI Mathematical National Competition 🥇  
 - **Participant** — National Mathematics & Physics Olympiads 🏅
+
+  <br>
 
 
 ---
