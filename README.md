@@ -66,21 +66,21 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 ### 🐙 𝗝𝗨𝗡𝗜𝗢𝗥 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 (𝗜𝗡𝗧𝗘𝗥𝗡) — 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘, 𝗦𝗢𝗙𝗜𝗔 | 𝗦𝗘𝗣 2025 – 𝗙𝗘𝗕 2026
 
-- Developed backend services and data pipelines using **Python**, **Java**, and **Clojure**
+- Developed services and data pipelines using **Python**, **Java**, and **Clojure**
 - Built REST API integrations supporting internal platform communication and data synchronization
-- Worked on modular backend components following clean architecture principles
-- Contributed to systems handling **high-volume data processing workflows 
+- Designed modular components following clean architecture principles
+- Contributed to systems handling **high-volume data processing workflows**
 - Participated in Agile development, code reviews, debugging, and Git-based collaboration
 
 
 
 ### 📝 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡 𝗪𝗢𝗥𝗞
 
-- Developed API-driven backend components for distributed system integration  
-- Designed data processing workflows improving system efficiency  
-- Worked on scalable service integration patterns and event-driven architectures
-- Supported production backend systems used in internal platform operations   
-- Featured System: Java + Clojure Backend API System  : 👉 [𝗝𝗮𝘃𝗮 + 𝗖𝗹𝗼𝗷𝘂𝗿𝗲 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗔𝗣𝗜 𝗦𝘆𝘀𝘁𝗲𝗺](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
+- Developed API-driven components for distributed system integration  
+- Designed data workflows improving system efficiency and throughput  
+- Worked on scalable integration patterns and event-driven architectures  
+- Supported production systems used in internal platform operations  
+- Featured System: Java + Clojure API System 👉 [𝗝𝗮𝘃𝗮 + 𝗖𝗹𝗼𝗷𝘂𝗿𝗲 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗔𝗣𝗜 𝗦𝘆𝘀𝘁𝗲𝗺](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
 
 
 ---
