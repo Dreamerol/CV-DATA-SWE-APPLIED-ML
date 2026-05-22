@@ -240,6 +240,7 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 **𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗣𝗥𝗔𝗖𝗧𝗜𝗖𝗘𝗦**  
 • Clean code, OOP, Git workflows, Agile development, modular system design  
 
+<br>
 
 ---
 
